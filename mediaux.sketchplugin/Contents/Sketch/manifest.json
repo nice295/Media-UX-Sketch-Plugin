@@ -1,0 +1,22 @@
+{
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Rename Artboard",
+      "identifier": "mediaux.my-command-identifier",
+      "script": "rename-artboard.js"
+    }
+  ],
+  "menu": {
+    "title": "👍🏼Media UX",
+    "items": [
+      "mediaux.my-command-identifier"
+    ]
+  },
+  "version": "0.1.0",
+  "description": "",
+  "name": "👍🏼Media UX",
+  "identifier": "👍🏼Media UX",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml"
+}

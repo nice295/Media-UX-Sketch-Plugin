@@ -1,0 +1,16 @@
+{
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Rename Artboard",
+      "identifier": "mediaux.my-command-identifier",
+      "script": "./rename-artboard.js"
+    }
+  ],
+  "menu": {
+    "title": "👍🏼Media UX",
+    "items": [
+      "mediaux.my-command-identifier"
+    ]
+  }
+}
