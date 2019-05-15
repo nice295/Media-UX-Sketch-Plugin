@@ -1,0 +1,22 @@
+{
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Rename Artboard",
+      "identifier": "mediaux.my-command-identifier",
+      "script": "rename-artboard.js"
+    }
+  ],
+  "menu": {
+    "title": "👍🏼Media UX",
+    "items": [
+      "mediaux.my-command-identifier"
+    ]
+  },
+  "version": "3.1.1",
+  "description": "Help Medix UX designer to design better",
+  "name": "👍🏼Media UX",
+  "identifier": "👍🏼Media UX",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com/nice295/Media-UX-Sketch-Plugin/master/.appcast.xml"
+}
