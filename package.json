@@ -3,6 +3,7 @@
   "description": "Help Medix UX designer to design better",
   "version": "0.1.0",
   "repository": {
+    "type" : "git",
     "url": "https://github.com/nice295/Media-UX-Sketch-Plugin.git"
   },
   "engines": {
